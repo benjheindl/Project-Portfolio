@@ -31,6 +31,7 @@ A key component of the curriculum is the Project Portfolio Milestone Requirement
     * [IST 664 - Natural_Language_Processing: Sentiment_Analysis_Investigation](https://github.com/benjheindl/Project-Portfolio/blob/main/nlp_sentiment_analysis_investigation.pdf)
     * [IST 664 - Natural_Language_Processing: Sentiment_Analysis_Investigation_SlideDeck](https://github.com/benjheindl/Project-Portfolio/blob/main/nlp_sentiment_analysis_investigation_pres.pdf)
     * [IST 664 - Natural_Language_Processing: Sentiment_Analysis_Report](https://github.com/benjheindl/Project-Portfolio/blob/main/nlp_sentiment_analysis_report.pdf)
+    * [IST 691 - Deep_Learning_in_Practice: Applying_Deep_Learning](https://github.com/benjheindl/Project-Portfolio/blob/main/deep_learning.pdf)
      
 4. [Portfolio Presentation]()
     - Video file presenting the Portfolio Milestone
