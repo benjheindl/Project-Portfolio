@@ -1,7 +1,10 @@
 <p align="left">
-  <img src="Syracuse.jpg" alt="Syracuse University Logo" width="100" height="80" />
-  <span style="font-size: large; font-weight: bold; vertical-align: top;">Syracuse University, M.S., Applied Data Science</span>
+  <img src="Syracuse.jpg" alt="Syracuse University Logo" width="100" height="80" style="vertical-align: middle;" />
+  <span style="font-size: large; font-weight: bold; margin-left: 13px; vertical-align: middle;">Syracuse University, M.S., Applied Data Science</span>
 </p>
+
+### Benjamin J Heindl
+
 
 ### Benjamin J Heindl
 
