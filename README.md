@@ -9,7 +9,9 @@ benjheindl@gmail.com
 
 ## Description
 
-The Applied Data Science program at Syracuse University's School of Information Studies provides students the opportunity to collect, manage, analyze, and develop insights using data from a multitude of domains using various tools and techniques. In courses such as Database Administration, Data Analytics, Text Mining, and Marketing Analytics, reports and presentations were developed to deliver insights using Microsoft Access, SQL Server Management Studio, Python, R, Excel, and Tableau. The skills developed at the School of Information Studies furnish data scientists focused in the field of marketing analytics with the ability to generate value within their organizations and produce actionable recommendations.
+Syracuse University's Master of Science in Applied Data Science, offered by the School of Information Studies, emphasizes practical data science applications in enterprise operations. The program, geared towards developing data-driven decision-making skills, includes courses like Database Administration, Data Analytics, Text Mining, and Marketing Analytics. Students use tools such as Microsoft Access, SQL Server Management Studio, Python, R, Excel, and Tableau to deliver insights through reports and presentations.
+
+A key component of the curriculum is the Project Portfolio Milestone Requirement, where students compile selected coursework to demonstrate their mastery in data science. This portfolio showcases their ability to analyze and interpret data, leading to actionable organizational recommendations. Graduates emerge as skilled data scientists, particularly in marketing analytics, ready to add value and provide insightful solutions in various professional settings.
 
 ## Table of Contents
 
