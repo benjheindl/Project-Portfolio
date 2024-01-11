@@ -23,7 +23,6 @@ A key component of the curriculum is the Project Portfolio Milestone Requirement
 
 3. Referenced Course Projects and Assignments
 
-https://github.com/benjheindl/Project-Portfolio/blob/main/sql_tee_mates_report.pdf
     * [IST 659 - Database_Administration_Concepts_&_Database_Management: PGA_Golf_SQL_Analysis](https://github.com/benjheindl/Project-Portfolio/blob/main/sql_tee_mates_report.pdf
 )
     * [IST 652 - Scripting_for_Data_Analysis: Credit_Card_Fraud_Detection](https://github.com/benjheindl/Project-Portfolio/blob/main/cc-fraud_detection.pdf)
