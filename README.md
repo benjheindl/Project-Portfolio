@@ -1,14 +1,9 @@
 <p>
   <img src="Syracuse.jpg" alt="Syracuse University Logo" width="100" height="80" style="vertical-align: middle;" />
-  <span style="font-size: 1.25em; font-weight: bold; vertical-align: middle; margin-left: 10px;">Syracuse University, M.S., Applied Data Science</span>
-</p>
 
-## Benjamin J Heindl
-
-
+## Syracuse University, M.S., Applied Data Science
 
 ### Benjamin J Heindl
-
 
 359536618
 
