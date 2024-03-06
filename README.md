@@ -24,7 +24,7 @@ A key component of the curriculum is the Project Portfolio Milestone Requirement
 
 2. [Professional Resume](https://github.com/benjheindl/Project-Portfolio/blob/main/benjamin_heindl_resume.pdf)
 
-3. [BenjaminHeindlPortfolioMilestone.pdf](https://github.com/benjheindl/Project-Portfolio/blob/main/effective_project_management_guide.pdf)
+3. [BenjaminHeindlPortfolioMilestone.pdf](https://github.com/benjheindl/Project-Portfolio/blob/main/Benjamin_Heindl_Portfolio_Milestone.pdf)
     - Written Portfolio Milestone Report
 
 4. Referenced Course Projects and Assignments
