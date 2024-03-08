@@ -46,7 +46,7 @@ A key component of the curriculum is the Project Portfolio Milestone Requirement
      
 5. [Portfolio Presentation](https://drive.google.com/file/d/1V7HE-PbUHIcNiYFjflPuxfQobVmAVlJd/view?usp=sharing)
     - Video file presenting the Portfolio Milestone
-    - [Public Link]()
+    - [Public Link](https://drive.google.com/file/d/1V7HE-PbUHIcNiYFjflPuxfQobVmAVlJd/view?usp=sharing)
 
 6. [BenjaminHeindlSlideDeck.pdf](https://github.com/benjheindl/Project-Portfolio/blob/main/heindl_benjamin_portfolio_milestone_deck.pdf)
     - Referenced slide deck from presentation
